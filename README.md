@@ -4,7 +4,7 @@ Many of the functions are explained underneath the function headers and class de
 
 # word.py
   
-  Contains the Word class, which represents a word in the HTE. Also contains the mechanism for scraping the HTE for information pertaining to a specific word.
+  Contains the Word class, which represents a word in the HTE.
 
 # sense.py
 
