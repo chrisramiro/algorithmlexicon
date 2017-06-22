@@ -66,6 +66,12 @@ The main purpose of the accompanying files is to provide the codebase for the le
   
   Go to the file iteration.py and call the function with the following information.
   
+  --------------------------------------------------------------------------------------------------------------------------------------
+  DATA REFERENCES
+  
+  - Kay, C., Roberts, J., Samuesl, M., Wotherspoon, I., & Alexander, M. (2015). The historical thesaurus of english, version 4.2. Glasgow: University of Glasgow.
+  
+  - The British National Corpus, version 3 (BNC XML Edition). (2007). (Distributed by Oxford University Computing SErvices on behalf of the BNC Consortium. URL: http://www.natcorp.ox.ac.uk/)
   
   --------------------------------------------------------------------------------------------------------------------------------------
   © Copyright 2016 Christian Ramiro
