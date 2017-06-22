@@ -1,6 +1,21 @@
+The readme file might be benefited from addition of the following infor:
+
+1) a heading sentence explaining the code base is used to do what, or
+accompanies which manuscript (title).
+
+2) copyright should be @ Christian Ramiro, and that anyone who uses this
+code should cite and acknowledge our manuscript:
+
+Ramiro, Srinivasan, Malt, & Xu (in submission). Mental algorithms in the
+historical emergence of word meanings.
+
+Best,
+
+
+
 # algorithmlexicon
 
-Many of the functions are explained underneath the function headers and class definitions. A brief summary of each Python file is as follows.
+The main purpose of the accompanying files is to provide the codebase for the lexicon analysis seen in "Mental Algorithms in the Historical Emergence of Word Meanings". Many of the functions are explained underneath the function headers and class definitions. A brief summary of each Python file is as follows.
 
 # word.py
   
@@ -50,3 +65,13 @@ Many of the functions are explained underneath the function headers and class de
   
   
   Go to the file iteration.py and call the function with the following information.
+  
+  
+  --------------------------------------------------------------------------------------------------------------------------------------
+  © Copyright 2016 Christian Ramiro
+  
+  Anyone who uses this code should cite and acknowledge the follow:
+
+  Ramiro, Srinivasan, Malt, & Xu (in submission). Mental algorithms in the
+  historical emergence of word meanings.
+  --------------------------------------------------------------------------------------------------------------------------------------
