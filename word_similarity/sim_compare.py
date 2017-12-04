@@ -12,12 +12,10 @@ def do_print(wb, end):
     for i in range(2, end):
         if ws.cell(row=i, column=5).value != ":(" and ws.cell(row=i, column=5).value:
             score.append(ws.cell(row=i, column=4).value)
-            f.append(ws.cell(row=i, column=5).value)
             d.append(ws.cell(row=i, column=6).value)
             maxf.append(ws.cell(row=i, column=7).value)
 
     print(wb)
-    print("d mean: " + str(stats.spearmanr(score, f)))
     print("d max: " + str(stats.spearmanr(score, d)))
     print("f max " + str(stats.spearmanr(score, maxf)))
 
