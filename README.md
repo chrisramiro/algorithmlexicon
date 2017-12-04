@@ -57,12 +57,18 @@ Many of the functions are explained underneath the function headers and class de
   --------------------------------------------------------------------------------------------------------------------------------------
   DATA REFERENCES
   
-  - Kay, C., Roberts, J., Samuesl, M., Wotherspoon, I., & Alexander, M. (2015). The historical thesaurus of english, version 4.2. Glasgow: University of Glasgow.
+  - Kay, C., Roberts, J., Samuesl, M., Wotherspoon, I., & Alexander, M. (2015). The historical thesaurus of english, version 4.2. Glasgow: University of Glasgow. URL http:http://historicalthesaurus.arts.gla.ac.uk/
   
   - The British National Corpus, version 3 (BNC XML Edition). (2007). (Distributed by Oxford University Computing SErvices on behalf of the BNC Consortium. URL: http://www.natcorp.ox.ac.uk/)
   
+- 353:
+  Lev Finkelstein, Evgeniy Gabrilovich, Yossi Matias, Ehud Rivlin, Zach Solan, Gadi Wolfman, and Eytan Ruppin, "Placing Search in Context: The Concept Revisited", ACM Transactions on Information Systems, 20(1):116-131, January 2002. URL: http://www.cs.technion.ac.il/~gabr/resources/data/wordsim353/
+
+- 999:
+  SimLex-999: Evaluating Semantic Models with (Genuine) Similarity Estimation. 2014. Felix Hill, Roi Reichart and Anna Korhonen. Computational Linguistics. 2015. URL: https://www.cl.cam.ac.uk/~fh295/simlex.html
+
   --------------------------------------------------------------------------------------------------------------------------------------
-  © Copyright 2016 Christian Ramiro
+  © Copyright 2017 Christian Ramiro
   
   Anyone who uses this code should cite and acknowledge the follow:
 
