@@ -57,7 +57,7 @@ Many of the functions are explained underneath the function headers and class de
   --------------------------------------------------------------------------------------------------------------------------------------
   DATA REFERENCES
   
-  - Kay, C., Roberts, J., Samuesl, M., Wotherspoon, I., & Alexander, M. (2015). The historical thesaurus of english, version 4.2. Glasgow: University of Glasgow. URL http:http://historicalthesaurus.arts.gla.ac.uk/
+  - Kay, C., Roberts, J., Samuesl, M., Wotherspoon, I., & Alexander, M. (2015). The historical thesaurus of english, version 4.2. Glasgow: University of Glasgow. URL: http:http://historicalthesaurus.arts.gla.ac.uk/
   
   - The British National Corpus, version 3 (BNC XML Edition). (2007). (Distributed by Oxford University Computing SErvices on behalf of the BNC Consortium. URL: http://www.natcorp.ox.ac.uk/)
   
