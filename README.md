@@ -7,7 +7,7 @@ Many of the functions are explained underneath the function headers and class de
 
 # BNC Analysis
 
-  An example of the code and data used to generate the log-likelihood scores with the sample set being a sampling of the top 500 words in the BNC that amenable to analysis.
+  An example of the code and data used to generate the log-likelihood scores with the sample set being a sampling of the top 500 words in the BNC that are amenable to analysis.
 
 # model_cost
 
