@@ -13,15 +13,15 @@ Many of the functions are explained underneath the function headers and class de
 
 # model_cost
 
- The python file simulates and computes the model costs as in SI S4.2
+ The python file simulates and computes the model costs as in SI S4.2.
  
 # word_form_analysis
 
-  The python file performs statistical tests and visualization on the comparative analysis of word form reuse and innovation in SI S1
+  The python file performs statistical tests and visualization on the comparative analysis of word form reuse and innovation in SI S1.
   
 # word_similarity
 
-  The python file performs the tests the approximation of HTE sense similarities to real human judgements in the Methods (sub-section Semantic Similarity) section of the manuscript
+  The python file performs the tests the approximation of HTE sense similarities to real human judgements in the Methods (sub-section Semantic Similarity) section of the manuscript.
   
 --------------------------------------------------------------------------------------------------------------------------------------
   DATA REFERENCES
