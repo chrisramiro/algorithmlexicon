@@ -46,6 +46,6 @@ Many of the functions are explained underneath the function headers and class de
   
   Anyone who uses this code should cite and acknowledge the follow:
 
-  Ramiro, Srinivasan, Malt, & Xu (in submission). Mental algorithms in the
-  historical emergence of word meanings.
+  Ramiro, Srinivasan, Malt, & Xu (in submission). Algorithms in the
+  historical emergence of word senses.
   --------------------------------------------------------------------------------------------------------------------------------------
