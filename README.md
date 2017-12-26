@@ -7,14 +7,7 @@ Many of the functions are explained underneath the function headers and class de
 
 # BNC Analysis
 
-  An example of the code used to generate the log-likelihood scores with the sample set being a sampling of the top 500 words in the BNC that amenable to analysis.
-  
-  It contains:
-  - 4 Python files: word.py, sense.py, word_data_structures.py, models.py
-  - \_word_list.xlsx - an excel file containing a master list of the following excel files - it becomes populated with scores for each model once the analysis is run
-  - 500 xlsx files containing information (date, word form, identifieres, classification codes, part-of-speech) regarding each sense of that given word in the HTE
-  
-  In order to run the analysis, use the models.py script.
+  An example of the code and data used to generate the log-likelihood scores with the sample set being a sampling of the top 500 words in the BNC that amenable to analysis.
 
 # model_cost
 
