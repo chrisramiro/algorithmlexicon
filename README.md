@@ -1,6 +1,6 @@
 # algorithmlexicon
 
-The main purpose of the accompanying files is to provide the codebase for the lexicon analysis seen in "Mental Algorithms in the Historical Emergence of Word Meanings". Note that this repository does not include all the base data used (from the Historical Thesaurus of English) due to licensing requirements of the HTE database (see References section); the code base includes a subset of
+The main purpose of the accompanying files is to provide the codebase for the lexicon analysis seen in "Algorithms in the Historical Emergence of Word Senses". Note that this repository does not include all the base data used (from the Historical Thesaurus of English) due to licensing requirements of the HTE database (see References section); the code base includes a subset of
 the data used for analysis in the manuscript. Independent licenses need to be obtained for greater access to the HTE database.
 
 Many of the functions are explained underneath the function headers and class definitions. A brief summary of each Folder follows:
